@@ -11,3 +11,10 @@ It is a verticle card slide.
    ```bash
    git clone <repository-url>
    cd <project-folder>
+
+2. Future Improvement
+    Improve in the fluid layout of card.
+    more responsive and transparancy of card.
+
+ 3. It required to complete me about 2 hrs and 30 min
+   
